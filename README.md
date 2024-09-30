@@ -76,10 +76,4 @@ The Titanic Survival Prediction dashboard presents valuable insights into the de
 
 ---
 
-6. Recommendations
-- **Further Exploration**: Investigating the role of socio-economic factors beyond just passenger class, such as occupations and family status, could provide a deeper understanding of survival dynamics.
-- **Predictive Model**: The insights from the dashboard can be used to refine predictive models that estimate survival probability based on factors like gender, age, and class.
 
----
-
-This report provides an analytical summary of the dashboard. If you would like to explore other factors or need additional details, feel free to reach out!
